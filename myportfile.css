@@ -1,0 +1,33 @@
+.das{
+    background-color: darkblue;
+}
+.sad{
+    background: linear-gradient(90deg, #ff6b6b 0%, #ffd166 30%, #06d6a0 60%, #4d7cff 100%);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  height: 500px;
+  width: 800px;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: 25px;
+  display: flex;
+  padding:50px;
+}
+.set{
+    background-color: rgb(19, 38, 60);
+    height:90%;
+    width:30%;
+    border-radius: 5px;
+}
+.tes{
+background-color: rgb(19, 38, 60);
+    height:90%;
+    width:70%;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.get{
+    width:200px ;
+    height:200px;
+    background-color: azure;
+    border-radius: 50%;
+}
