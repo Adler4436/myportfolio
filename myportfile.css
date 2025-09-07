@@ -25,9 +25,30 @@ background-color: rgb(19, 38, 60);
     margin-left: 20px;
     border-radius: 5px;
 }
-.get{
+/* .get{
     width:200px ;
     height:200px;
     background-color: azure;
+    border-radius: 50%; */
+/* } */
+
+.tet{
     border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 30px;
 }
+.der{
+    font-size: 20px;
+  font-weight: bold;
+  background: linear-gradient(to right, purple, rgb(142, 57, 159), rgb(88, 45, 88), rgb(177, 177, 23), yellow, rgb(113, 113, 19), yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+.red{
+    color: white;
+    text-align: center;
+}
+
+    
+
