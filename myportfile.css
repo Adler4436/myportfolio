@@ -49,6 +49,34 @@ background-color: rgb(19, 38, 60);
     color: white;
     text-align: center;
 }
+.ih{
+    text-align: center;
+    color: aliceblue;
+}
+.me{
+     text-align: center;
+    color: aliceblue;
+}
+.em{
+     text-align: center;
+    color: aliceblue;
+}
+.tis{
+     text-align: center;
+    color: aliceblue;
+}
+.tea{
+     text-align: center;
+    color: aliceblue;
+}
+.hi{
+    text-align: center;
+      color: linear-gradient(to right, purple, rgb(142, 57, 159), rgb(88, 45, 88), rgb(177, 177, 23), yellow, rgb(113, 113, 19), yellow);
+
+}
+.aet{
+    color: azure;
+}
 
     
 
